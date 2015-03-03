@@ -40,7 +40,7 @@
 	</div>
 	<footer id="footer">
 	    <ul id="links">
-		    <li class="spacer"><a href="mailto:contact@laurencedawson.com">Contact</a></li>
+		    <li class="spacer"><a href="mailto://contact@laurencedawson.com">Contact</a></li>
 		    <li class="spacer"><a href="http://www.reddit.com/r/redditsync" target="_blank">Help &amp; Support</a></li>
 		    <li><a href="https://www.facebook.com/syncforreddit" target="_blank">Like us on Facebook</a></li>
 	    </ul>
