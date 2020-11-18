@@ -1,2 +1,3 @@
 mopub.com, 66e40437c8aa4ec99285731415a95109, DIRECT, 74b46c0ea83967ca
 google.com, pub-3438665636438152, DIRECT, f088c47fec942fa0
+aps.amazon.com, 9191136, DIRECT
