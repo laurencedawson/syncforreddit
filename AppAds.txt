@@ -1,5 +1,4 @@
-mopub.com, 66e40437c8aa4ec99285731415a95109, DIRECT, 74b46c0ea83967ca
-google.com, pub-3438665636438152, DIRECT, f088c47fec942fa0
+google.com, pub-3438665636438152, DIRECT, f08c47fec0942fa0
 aps.amazon.com,fc46cc52-c927-475d-8490-18e6d160fbfe,DIRECT
 rubiconproject.com,18020,RESELLER,0bfd66d529a55807
 smaato.com,1100044650,RESELLER,07bcf65f187117b4
@@ -7,11 +6,9 @@ yahoo.com,55029,RESELLER,e1a5b5b6e3255540
 adcolony.com,44ef7fd4adebf701,RESELLER,1ad675c9de6b5176
 indexexchange.com,192410,RESELLER,50b1c356f2c5c8fc
 admanmedia.com,726,RESELLER
-applovin.com, 9888f69f42b6a3d5f65f9abf8b419107, DIRECT
-adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
-rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
-openx.com, 540785403, RESELLER, 6a698e2ec38604c6
-pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
-pubnative.net, 1007170, RESELLER, d641df8625486a7b
-Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
-indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8f
+yieldmo.com,2719019867620450718,RESELLER
+smartadserver.com,4125,RESELLER,060d053dcf45cbf3
+beachfront.com,14804,RESELLER,e2541279e8e2ca4d
+improvedigital.com,2050,RESELLER
+mintegral.com,10043,RESELLER,0aeed750c80d6423
+sonobi.com,24f603762e,RESELLER,d1a215d9eb5aee9e
